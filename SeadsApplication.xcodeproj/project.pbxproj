@@ -13,6 +13,8 @@
 		28C36DC31A1C461700C3E81A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28C36DC21A1C461700C3E81A /* Images.xcassets */; };
 		28C36DC61A1C461700C3E81A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28C36DC41A1C461700C3E81A /* LaunchScreen.xib */; };
 		28C36DD21A1C461700C3E81A /* SeadsApplicationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28C36DD11A1C461700C3E81A /* SeadsApplicationTests.swift */; };
+		28C36DDC1A1C466B00C3E81A /* Screen Shot 2014-11-12 at 3.04.08 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 28C36DDB1A1C466B00C3E81A /* Screen Shot 2014-11-12 at 3.04.08 PM.png */; };
+		28C36E101A1D5FFC00C3E81A /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28C36E0F1A1D5FFC00C3E81A /* LoginVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		28C36DCB1A1C461700C3E81A /* SeadsApplicationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SeadsApplicationTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		28C36DD01A1C461700C3E81A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		28C36DD11A1C461700C3E81A /* SeadsApplicationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeadsApplicationTests.swift; sourceTree = "<group>"; };
+		28C36DDB1A1C466B00C3E81A /* Screen Shot 2014-11-12 at 3.04.08 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2014-11-12 at 3.04.08 PM.png"; path = "../../Screen Shot 2014-11-12 at 3.04.08 PM.png"; sourceTree = "<group>"; };
+		28C36E0F1A1D5FFC00C3E81A /* LoginVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,7 @@
 		28C36DAD1A1C461700C3E81A = {
 			isa = PBXGroup;
 			children = (
+				28C36E0F1A1D5FFC00C3E81A /* LoginVC.swift */,
 				28C36DB81A1C461700C3E81A /* SeadsApplication */,
 				28C36DCE1A1C461700C3E81A /* SeadsApplicationTests */,
 				28C36DB71A1C461700C3E81A /* Products */,
@@ -77,6 +82,7 @@
 		28C36DB81A1C461700C3E81A /* SeadsApplication */ = {
 			isa = PBXGroup;
 			children = (
+				28C36DDB1A1C466B00C3E81A /* Screen Shot 2014-11-12 at 3.04.08 PM.png */,
 				28C36DBB1A1C461700C3E81A /* AppDelegate.swift */,
 				28C36DBD1A1C461700C3E81A /* ViewController.swift */,
 				28C36DBF1A1C461700C3E81A /* Main.storyboard */,
@@ -192,6 +198,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				28C36DDC1A1C466B00C3E81A /* Screen Shot 2014-11-12 at 3.04.08 PM.png in Resources */,
 				28C36DC11A1C461700C3E81A /* Main.storyboard in Resources */,
 				28C36DC61A1C461700C3E81A /* LaunchScreen.xib in Resources */,
 				28C36DC31A1C461700C3E81A /* Images.xcassets in Resources */,
@@ -214,6 +221,7 @@
 			files = (
 				28C36DBE1A1C461700C3E81A /* ViewController.swift in Sources */,
 				28C36DBC1A1C461700C3E81A /* AppDelegate.swift in Sources */,
+				28C36E101A1D5FFC00C3E81A /* LoginVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -407,6 +415,7 @@
 				28C36DD71A1C461700C3E81A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		28C36DD81A1C461700C3E81A /* Build configuration list for PBXNativeTarget "SeadsApplicationTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +424,7 @@
 				28C36DDA1A1C461700C3E81A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

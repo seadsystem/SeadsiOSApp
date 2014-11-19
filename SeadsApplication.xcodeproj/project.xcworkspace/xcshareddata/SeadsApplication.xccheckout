@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5B9E9542-38AF-43EA-AA0C-3E9EEEB767CD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SeadsApplication</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F1DDAC89CFECD8D7C6ADCFA38D6638095447894F</key>
+		<string>github.com:seadsystem/SeadsiOSApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SeadsApplication.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F1DDAC89CFECD8D7C6ADCFA38D6638095447894F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:seadsystem/SeadsiOSApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F1DDAC89CFECD8D7C6ADCFA38D6638095447894F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F1DDAC89CFECD8D7C6ADCFA38D6638095447894F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SeadsApplication</string>
+		</dict>
+	</array>
+</dict>
+</plist>
